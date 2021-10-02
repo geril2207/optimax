@@ -1,0 +1,34 @@
+.btn {
+  background: #ffffff;
+  border: 1px solid #e1e1e1;
+  box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.03);
+  border-radius: 20.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  cursor: pointer;
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  color: #000000;
+  margin-left: 5px;
+  padding-right: 15px;
+}
+
+.img {
+  padding-left: 15px;
+}
+
+.hidden {
+  display: none;
+}

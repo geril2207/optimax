@@ -1,0 +1,16 @@
+<svg width="33" height="27" viewBox="0 0 33 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Camera">
+<g id="Color">
+<path id="Stroke 3" fill-rule="evenodd" clip-rule="evenodd" d="M17.6789 3.39178L19.2846 3.39178C22.54 3.39178 23.9974 4.92457 23.9974 7.93563L23.9974 18.0561C23.9974 19.4553 22.8195 20.6 21.3798 20.6L5.7128 20.6C2.80497 20.6 1 18.8255 1 16.0561L1 7.93563C1 4.93429 2.64449 3.39178 5.7128 3.39178L7.35601 3.39178L9.83814 0.853027L15.0732 0.853027L17.6789 3.39178Z" fill="black" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Stroke 1" d="M15.7 11.5C15.7 13.2676 14.2664 14.7 12.5 14.7C10.7322 14.7 9.3 13.2678 9.3 11.5C9.3 9.73223 10.7322 8.3 12.5 8.3C14.2664 8.3 15.7 9.73244 15.7 11.5Z" stroke="white" stroke-width="1.6" stroke-linejoin="round"/>
+</g>
+<g id="Group 3">
+<circle id="Oval" cx="24.565" cy="17.765" r="5.265" fill="white" stroke="white" stroke-width="6"/>
+<circle id="Oval_2" cx="24.565" cy="17.765" r="5.265" fill="white" stroke="black" stroke-width="1.5"/>
+<g id="plus">
+<path id="Line" d="M26.428 17.684H22.54" stroke="black" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_2" d="M24.484 19.628V15.74" stroke="black" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</svg>
