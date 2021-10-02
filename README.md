@@ -1,3 +1,18 @@
+# Сборка проекта
+
+Для того чтобы запустить приложение нужен Node.js
+
+Скачиваем репозиторий
+Устанавливаем зависимости
+
+### `npm i`
+
+Чтобы установить все зависимости
+
+### `npm run start`
+
+Чтобы запустить проект в режиме разработки
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
